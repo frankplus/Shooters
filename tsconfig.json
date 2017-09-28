@@ -1,0 +1,14 @@
+{
+    "compilerOptions": {
+        "target": "es5",
+        "module": "amd",
+        "noImplicitAny": true,
+        "removeComments": false,
+        "outDir": "dist",
+        "baseUrl": ".",
+        "sourceMap": true
+    },
+    "include": [
+        "src/**/*"
+    ]
+}
